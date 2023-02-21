@@ -23,3 +23,8 @@ Here is the link to report, https://github.com/yunfeiluo/yunfeiluo.github.io/blo
 - All the Multitask networks outperform the vanilla networks
 - Shallow LSTM achieve the highest accuracy, but didn't benefit from stacking more layers
 - CNN benefit from stacking more layers with residual connections
+
+---
+
+# Evaluating-Student-Writing-kaggle (Experiments with Transformer based model)
+https://www.kaggle.com/c/feedback-prize-2021
